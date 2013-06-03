@@ -1,0 +1,1 @@
+This repo will contain all code and data for reproducing the results in the RATES paper currently under consideration at Environmetrics. Stay tuned!
